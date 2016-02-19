@@ -2,6 +2,8 @@
 # coding=utf-8
 
 import time
+import json
+import socket
 from setting import *
 from utils.log import LOG
 from database import Database
@@ -9,10 +11,15 @@ from datetime import datetime
 from corebase.coreorder import CoreOrder
 
 log = LOG()
+MCAST_GRP = '238.2.20.128'
+MCAST_PORT_A = 14331
+MCSOCK = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+MCSOCK.setsockopt(socket.IPPROTO_IP, socket.IP_MULTICAST_TTL, 32)
 
 class CoreStatusController():
     def __init__(self):
-        self.db = Database(STATUS_REDIS)
+        self.db = Database(STATUS_REDIS, password=STATUS_REDIS_PASS)
+        self.hour = lambda : str(datetime.now().hour).zfill(2)
 
     def checkAdvertiserMoney(self, advid):
         remoney = self.db.getAdvertiserMoney(advid)
@@ -20,6 +27,34 @@ class CoreStatusController():
             return False
         else:
             return True
+
+    def orderinfo_brocast(self, advid, eid):
+        try:
+            self.adv_remoney = self.db.getAdvertiserMoney(advid)
+            self.adv_today = self.db.getAdvertiserTodaySpend(advid)
+            self.eid_spend, self.hour_spend = self.db.getOrderTodayMoney(eid)
+            self.eid_show = self.db.getOrderTodayShow(eid)
+            self.eid_click = self.db.getOrderTodayClick(eid)
+            self.eid_response = self.db.getOrderTodayResponse(eid)
+
+            json_dc = {
+                "type":"1",
+                "eid":str(eid),
+                "adv":str(advid),
+                "hour":str(self.hour()),
+                "show":str(self.eid_show),
+                "click":str(self.eid_click),
+                "advtoday":str(int( self.adv_today ) ),
+                "advremain":str(int( self.adv_remoney) ),
+                "havespend":str(int( self.eid_spend) ),
+                "hourspend":str(int( self.hour_spend) ),
+                "haveresponse":str(self.eid_response)
+            }
+            sendinfo = json.dumps(json_dc)
+            log.debug("orderinfo_brocast:%r" % sendinfo)
+            MCSOCK.sendto(sendinfo, (MCAST_GRP,MCAST_PORT_A))
+        except Exception,e:
+            log.error("orderinfo_brocast:%r" % e)
 
     def checkOrderMoney(self, orid, budget, hourlist = False):
         havespend, hourspend = self.db.getOrderTodayMoney(orid)
@@ -88,6 +123,9 @@ class CoreStatusController():
                 hourshare = real_info['hourshare']
 
             if advid:
+                # brocast
+                self.orderinfo_brocast(advid, orderID)
+
                 # adver money
                 if not self.checkAdvertiserMoney(advid):
                     db.setOrderStatus(orderID, STATUS_ADV_NO_MONEY)
@@ -122,11 +160,11 @@ class CoreStatusController():
 
 
 def ordercheckcontroller():
-    db = Database(STATUS_REDIS)
+    db = Database(STATUS_REDIS, password=STATUS_REDIS_PASS)
     ob_order = CoreOrder()
     ob_controller = CoreStatusController()
     st = int( time.time() )
-    interval = 10
+    interval = 1
     reload = True
     while True:
         try:
@@ -154,7 +192,7 @@ def ordercheckcontroller():
 
 
 def statuscontroller(sock):
-    db = Database(STATUS_REDIS)
+    db = Database(STATUS_REDIS, password=STATUS_REDIS_PASS)
     ob_order = CoreOrder()
     ob_controller = CoreStatusController()
     ob_order.start()

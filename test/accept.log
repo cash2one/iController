@@ -1,0 +1,385 @@
+14913->{'adverID': 213, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 1200000}
+11989->{'adverID': 667, 'hourlist': [0, 1, 2, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 3750}
+15200->{'adverID': 1080, 'hourlist': [0, 1, 2, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 26000}
+11263->{'adverID': 514, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22], 'hourshare': True, 'bidtype': 2, 'budget': 75000}
+13081->{'adverID': 684, 'hourlist': [0, 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 22500}
+13082->{'adverID': 684, 'hourlist': [0, 1, 2, 11, 12, 13, 17, 18, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 18750}
+13161->{'adverID': 684, 'hourlist': [0, 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 30000}
+11854->{'adverID': 689, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 37500}
+15613->{'adverID': 1127, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 19500}
+15610->{'adverID': 1112, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+15611->{'adverID': 1112, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+15616->{'adverID': 1112, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+11187->{'adverID': 465, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 37500}
+15614->{'adverID': 1112, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+15615->{'adverID': 1112, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+15618->{'adverID': 1127, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 16900}
+15619->{'adverID': 1127, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 18200}
+15753->{'adverID': 1113, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 6500}
+14210->{'adverID': 958, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 12000}
+15751->{'adverID': 879, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 7000}
+15750->{'adverID': 879, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 140000}
+15756->{'adverID': 1030, 'hourlist': [8, 9, 10, 11, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 3250}
+15755->{'adverID': 879, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 7000}
+10209->{'adverID': 390, 'hourlist': [8, 9, 10, 11, 12, 14, 15, 16, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 3750}
+10197->{'adverID': 436, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 37500}
+15731->{'adverID': 1120, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 130000}
+12663->{'adverID': 790, 'hourlist': [15, 16, 17, 18, 20, 21], 'hourshare': True, 'bidtype': 1, 'budget': 7500}
+10198->{'adverID': 436, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 22500}
+10199->{'adverID': 436, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 15000}
+13012->{'adverID': 684, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 37500}
+15536->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 12000}
+15535->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 12000}
+15533->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 12000}
+15532->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 60000}
+15531->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 60000}
+15530->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 60000}
+15539->{'adverID': 879, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 140000}
+14599->{'adverID': 1051, 'hourlist': [8, 9, 10, 11, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 3250}
+14595->{'adverID': 1051, 'hourlist': [8, 9, 10, 11, 13, 14, 15, 16, 17, 19, 20, 21, 22], 'hourshare': True, 'bidtype': 2, 'budget': 3250}
+14757->{'adverID': 1036, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 19500}
+14750->{'adverID': 1036, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 6500}
+15582->{'adverID': 606, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 15000}
+15528->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 60000}
+11447->{'adverID': 592, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 11250}
+15587->{'adverID': 1120, 'hourlist': [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 260000}
+15482->{'adverID': 159, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17], 'hourshare': False, 'bidtype': 1, 'budget': 22500}
+12793->{'adverID': 800, 'hourlist': [8, 9, 10, 11, 14, 15, 16, 18, 19, 20], 'hourshare': False, 'bidtype': 1, 'budget': 16000}
+15588->{'adverID': 1120, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22], 'hourshare': True, 'bidtype': 2, 'budget': 325000}
+15589->{'adverID': 1120, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 325000}
+15403->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 900000}
+14824->{'adverID': 638, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 210000}
+15630->{'adverID': 1123, 'hourlist': [0, 1, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 65000}
+11304->{'adverID': 158, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 7500}
+10633->{'adverID': 408, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 5000}
+14473->{'adverID': 1048, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 6500}
+10146->{'adverID': 154, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 15000}
+14475->{'adverID': 1048, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 6500}
+13205->{'adverID': 684, 'hourlist': [0, 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 30000}
+15323->{'adverID': 606, 'hourlist': [0, 1, 11, 12, 13, 14, 17, 18, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 15000}
+15242->{'adverID': 1054, 'hourlist': [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 70000}
+12449->{'adverID': 667, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+15719->{'adverID': 1123, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 52000}
+15718->{'adverID': 213, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 120000}
+10091->{'adverID': 390, 'hourlist': [8, 9, 10, 11, 12, 14, 15, 16, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 3750}
+10090->{'adverID': 390, 'hourlist': [8, 9, 10, 11, 12, 14, 15, 16, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 3750}
+13882->{'adverID': 937, 'hourlist': [0, 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+13760->{'adverID': 634, 'hourlist': [0, 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 65000}
+15279->{'adverID': 638, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 700000}
+15142->{'adverID': 1047, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 65000}
+15143->{'adverID': 1047, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 65000}
+14714->{'adverID': 238, 'hourlist': [0, 7, 8, 9, 10, 11, 12, 13, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 15000}
+15662->{'adverID': 1123, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 52000}
+15661->{'adverID': 1123, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 65000}
+15660->{'adverID': 1123, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 65000}
+15666->{'adverID': 1099, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 65000}
+15665->{'adverID': 1099, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 65000}
+15617->{'adverID': 1112, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+13472->{'adverID': 790, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+15567->{'adverID': 1080, 'hourlist': [0, 1, 2, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 19500}
+15561->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 30000}
+15562->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 30000}
+15424->{'adverID': 213, 'hourlist': [0, 1, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 60000}
+11658->{'adverID': 622, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 7500}
+11659->{'adverID': 622, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 30000}
+13830->{'adverID': 865, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18], 'hourshare': True, 'bidtype': 2, 'budget': 3750}
+12875->{'adverID': 634, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 130000}
+15726->{'adverID': 1123, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 32500}
+15281->{'adverID': 1051, 'hourlist': [8, 9, 10, 11, 13, 14, 15, 16, 17, 19, 20, 21, 22], 'hourshare': False, 'bidtype': 1, 'budget': 3250}
+14212->{'adverID': 921, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 750}
+15047->{'adverID': 213, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 300000}
+15046->{'adverID': 213, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 300000}
+15049->{'adverID': 213, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 300000}
+15048->{'adverID': 213, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 1200000}
+12176->{'adverID': 684, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 30000}
+15754->{'adverID': 1113, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 6500}
+11574->{'adverID': 592, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 15000}
+11570->{'adverID': 331, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 15000}
+13092->{'adverID': 741, 'hourlist': [0, 1, 2, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 22500}
+12302->{'adverID': 680, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+15744->{'adverID': 611, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 75000}
+15745->{'adverID': 606, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 15000}
+15746->{'adverID': 1043, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 50000}
+15747->{'adverID': 879, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 140000}
+15740->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 60000}
+15743->{'adverID': 1120, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 130000}
+15627->{'adverID': 1112, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+15748->{'adverID': 1120, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 130000}
+15621->{'adverID': 1112, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 19500}
+15620->{'adverID': 1112, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 19500}
+14612->{'adverID': 767, 'hourlist': [20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 28000}
+13284->{'adverID': 841, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 150000}
+15520->{'adverID': 1035, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 3300}
+15489->{'adverID': 1099, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 52000}
+15526->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 120000}
+15527->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 180000}
+15483->{'adverID': 159, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17], 'hourshare': False, 'bidtype': 1, 'budget': 22500}
+15529->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 60000}
+15481->{'adverID': 159, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17], 'hourshare': False, 'bidtype': 1, 'budget': 22500}
+15480->{'adverID': 159, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17], 'hourshare': False, 'bidtype': 1, 'budget': 30000}
+15487->{'adverID': 1099, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 52000}
+15485->{'adverID': 159, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21], 'hourshare': False, 'bidtype': 1, 'budget': 60000}
+15484->{'adverID': 159, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17], 'hourshare': False, 'bidtype': 1, 'budget': 22500}
+11125->{'adverID': 416, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 225}
+11695->{'adverID': 622, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 7500}
+11693->{'adverID': 622, 'hourlist': [0, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 7500}
+14726->{'adverID': 238, 'hourlist': [0, 7, 8, 9, 10, 11, 12, 13, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 15000}
+12876->{'adverID': 800, 'hourlist': [8, 9, 10, 11, 14, 15, 16], 'hourshare': True, 'bidtype': 1, 'budget': 8000}
+13973->{'adverID': 937, 'hourlist': [0, 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 9750}
+12874->{'adverID': 790, 'hourlist': [15, 16, 17, 18, 20, 21], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+13974->{'adverID': 937, 'hourlist': [0, 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 9750}
+13976->{'adverID': 937, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 9750}
+11490->{'adverID': 592, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 11250}
+15552->{'adverID': 879, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 70000}
+15414->{'adverID': 1080, 'hourlist': [0, 1, 2, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 26000}
+15415->{'adverID': 1080, 'hourlist': [0, 1, 2, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 130000}
+15417->{'adverID': 879, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 70000}
+15559->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 30000}
+14020->{'adverID': 958, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 24000}
+14026->{'adverID': 958, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 18000}
+11973->{'adverID': 514, 'hourlist': [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 150000}
+11976->{'adverID': 711, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+14949->{'adverID': 213, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 60000}
+15312->{'adverID': 606, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 37500}
+13212->{'adverID': 790, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21], 'hourshare': True, 'bidtype': 2, 'budget': 11250}
+13214->{'adverID': 841, 'hourlist': [0, 1, 2, 3, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 7500}
+15316->{'adverID': 606, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 15000}
+15315->{'adverID': 606, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 15000}
+15314->{'adverID': 606, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 37500}
+14653->{'adverID': 865, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+14655->{'adverID': 865, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+14657->{'adverID': 865, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19], 'hourshare': True, 'bidtype': 2, 'budget': 3750}
+14656->{'adverID': 865, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+15700->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 60000}
+15704->{'adverID': 213, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 120000}
+15705->{'adverID': 213, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 120000}
+12616->{'adverID': 741, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 22500}
+12615->{'adverID': 741, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 22500}
+12614->{'adverID': 741, 'hourlist': [0, 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 15000}
+12613->{'adverID': 741, 'hourlist': [0, 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 15000}
+12612->{'adverID': 741, 'hourlist': [0, 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 15000}
+12611->{'adverID': 741, 'hourlist': [0, 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 22500}
+10080->{'adverID': 337, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16], 'hourshare': False, 'bidtype': 2, 'budget': 3750}
+10082->{'adverID': 337, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16], 'hourshare': True, 'bidtype': 2, 'budget': 15000}
+10126->{'adverID': 390, 'hourlist': [8, 9, 10, 11, 12, 14, 15, 16, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+14806->{'adverID': 1048, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 6500}
+13104->{'adverID': 686, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 150000}
+15676->{'adverID': 1120, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 130000}
+15671->{'adverID': 1120, 'hourlist': [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 26000}
+15672->{'adverID': 638, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 70000}
+15175->{'adverID': 606, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 75000}
+15678->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 60000}
+12042->{'adverID': 684, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 15000}
+13625->{'adverID': 800, 'hourlist': [8, 9, 10, 11, 13, 14, 15, 16, 17, 19, 20, 21, 22], 'hourshare': False, 'bidtype': 2, 'budget': 8000}
+15519->{'adverID': 1035, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 9900}
+15518->{'adverID': 1099, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 26000}
+11053->{'adverID': 514, 'hourlist': [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 150000}
+15511->{'adverID': 638, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 210000}
+15510->{'adverID': 1099, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 26000}
+15512->{'adverID': 879, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 14000}
+12185->{'adverID': 680, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 7500}
+11664->{'adverID': 592, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+15607->{'adverID': 1112, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+15683->{'adverID': 1120, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 52000}
+15682->{'adverID': 879, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 70000}
+11115->{'adverID': 465, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 37500}
+15687->{'adverID': 213, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 120000}
+12181->{'adverID': 680, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22], 'hourshare': False, 'bidtype': 2, 'budget': 7500}
+15608->{'adverID': 1112, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+15586->{'adverID': 1120, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 260000}
+11703->{'adverID': 514, 'hourlist': [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22], 'hourshare': True, 'bidtype': 2, 'budget': 75000}
+13843->{'adverID': 937, 'hourlist': [0, 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 9750}
+13842->{'adverID': 937, 'hourlist': [0, 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 9750}
+10059->{'adverID': 153, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 5250}
+15357->{'adverID': 606, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 15000}
+12436->{'adverID': 741, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 22500}
+15298->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 600000}
+12824->{'adverID': 790, 'hourlist': [12, 13, 14, 15, 16, 17, 18, 19, 20, 21], 'hourshare': True, 'bidtype': 1, 'budget': 7500}
+15297->{'adverID': 606, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 15000}
+15358->{'adverID': 606, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 15000}
+13310->{'adverID': 210, 'hourlist': [0, 1, 2, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 55000}
+12142->{'adverID': 680, 'hourlist': [9, 10, 11, 14, 15, 16, 17, 20, 21, 22], 'hourshare': False, 'bidtype': 2, 'budget': 22500}
+12140->{'adverID': 684, 'hourlist': [0, 1, 2, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 15000}
+12262->{'adverID': 755, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 15000}
+14113->{'adverID': 958, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 21000}
+15639->{'adverID': 1112, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+14118->{'adverID': 958, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 21000}
+11568->{'adverID': 331, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 22500}
+11569->{'adverID': 331, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 15000}
+10129->{'adverID': 390, 'hourlist': [8, 9, 10, 11, 12, 14, 15, 16, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 7500}
+10434->{'adverID': 72, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 0}
+13931->{'adverID': 865, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+12316->{'adverID': 667, 'hourlist': [0, 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+12317->{'adverID': 667, 'hourlist': [0, 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+12314->{'adverID': 667, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 15000}
+12315->{'adverID': 667, 'hourlist': [0, 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+12313->{'adverID': 667, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 15000}
+15631->{'adverID': 1112, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+12319->{'adverID': 667, 'hourlist': [0, 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+15638->{'adverID': 611, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 75000}
+15730->{'adverID': 1120, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 19500}
+15737->{'adverID': 1098, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 9750}
+15736->{'adverID': 1098, 'hourlist': [0, 1, 2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 9750}
+15739->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 60000}
+12911->{'adverID': 800, 'hourlist': [8, 9, 10, 11, 13, 14, 15, 16, 17, 19, 20, 21, 22], 'hourshare': False, 'bidtype': 2, 'budget': 8000}
+15633->{'adverID': 1112, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+15634->{'adverID': 1112, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+15636->{'adverID': 611, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 375000}
+15637->{'adverID': 611, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 75000}
+14602->{'adverID': 1051, 'hourlist': [8, 9, 10, 11, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 3900}
+10222->{'adverID': 408, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 80000}
+10223->{'adverID': 408, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 50000}
+13747->{'adverID': 653, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 90000}
+11515->{'adverID': 592, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 7500}
+11512->{'adverID': 592, 'hourlist': [14, 15, 16, 17], 'hourshare': True, 'bidtype': 2, 'budget': 22500}
+15649->{'adverID': 1125, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 26000}
+15648->{'adverID': 611, 'hourlist': [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 75000}
+15644->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 60000}
+15647->{'adverID': 1043, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 10000}
+15641->{'adverID': 611, 'hourlist': [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 52500}
+15640->{'adverID': 611, 'hourlist': [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 225000}
+15643->{'adverID': 1125, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+15642->{'adverID': 1112, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+12039->{'adverID': 684, 'hourlist': [0, 1, 2, 3, 11, 12, 13, 16, 17, 18, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 30000}
+13959->{'adverID': 937, 'hourlist': [0, 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+14733->{'adverID': 238, 'hourlist': [0, 7, 8, 9, 10, 11, 12, 13, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 7500}
+14730->{'adverID': 238, 'hourlist': [0, 7, 8, 9, 10, 11, 12, 13, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 7500}
+14601->{'adverID': 1051, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 1625}
+13963->{'adverID': 937, 'hourlist': [0, 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 6500}
+13961->{'adverID': 514, 'hourlist': [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 90000}
+13964->{'adverID': 514, 'hourlist': [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22], 'hourshare': True, 'bidtype': 2, 'budget': 75000}
+13965->{'adverID': 937, 'hourlist': [0, 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 6500}
+13968->{'adverID': 514, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22], 'hourshare': True, 'bidtype': 1, 'budget': 75000}
+13969->{'adverID': 514, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22], 'hourshare': True, 'bidtype': 2, 'budget': 60000}
+13351->{'adverID': 790, 'hourlist': [10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+13299->{'adverID': 684, 'hourlist': [0, 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 22500}
+15545->{'adverID': 1035, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 9900}
+15542->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 360000}
+15543->{'adverID': 606, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 15000}
+15540->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 60000}
+15541->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 60000}
+13297->{'adverID': 684, 'hourlist': [0, 1, 2, 3, 10, 11, 12, 13, 17, 18, 19, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 15000}
+11143->{'adverID': 521, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 60000}
+13599->{'adverID': 767, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 21000}
+15495->{'adverID': 1048, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 3250}
+15497->{'adverID': 1099, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 45500}
+15490->{'adverID': 1099, 'hourlist': [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 45500}
+15491->{'adverID': 1099, 'hourlist': [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 45500}
+15492->{'adverID': 1099, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 52000}
+15493->{'adverID': 1099, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 52000}
+11635->{'adverID': 331, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 22500}
+15498->{'adverID': 1099, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 45500}
+15499->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 600000}
+12817->{'adverID': 800, 'hourlist': [8, 9, 10, 11, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 12000}
+13819->{'adverID': 634, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 195000}
+12818->{'adverID': 741, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 15000}
+12352->{'adverID': 667, 'hourlist': [0, 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+12353->{'adverID': 667, 'hourlist': [0, 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 22500}
+15233->{'adverID': 616, 'hourlist': [0, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 7500}
+11498->{'adverID': 624, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+11499->{'adverID': 624, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+14088->{'adverID': 634, 'hourlist': [0, 1, 2, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 325000}
+10507->{'adverID': 408, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 40000}
+11497->{'adverID': 624, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+15601->{'adverID': 1120, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 32500}
+15600->{'adverID': 1120, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 32500}
+15605->{'adverID': 1112, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+11194->{'adverID': 514, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22], 'hourshare': True, 'bidtype': 2, 'budget': 75000}
+12927->{'adverID': 841, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 37500}
+15606->{'adverID': 1112, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+15609->{'adverID': 1112, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+12928->{'adverID': 841, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 150000}
+13632->{'adverID': 210, 'hourlist': [0, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 27500}
+13630->{'adverID': 210, 'hourlist': [0, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 22000}
+10182->{'adverID': 390, 'hourlist': [8, 9, 10, 11, 12, 14, 15, 16, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 3750}
+13008->{'adverID': 684, 'hourlist': [0, 1, 2, 3, 11, 12, 13, 16, 17, 18, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 30000}
+15508->{'adverID': 1099, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 65000}
+13414->{'adverID': 210, 'hourlist': [0, 1, 2, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 55000}
+15502->{'adverID': 1099, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 52000}
+15503->{'adverID': 1099, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 52000}
+15501->{'adverID': 1099, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 52000}
+15506->{'adverID': 1099, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 45500}
+15507->{'adverID': 1099, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 65000}
+15504->{'adverID': 1099, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 52000}
+15505->{'adverID': 1099, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 45500}
+14468->{'adverID': 1048, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 6500}
+14740->{'adverID': 1052, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 9750}
+15692->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 60000}
+15693->{'adverID': 1043, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 50000}
+14749->{'adverID': 1036, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 6500}
+15696->{'adverID': 879, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 140000}
+15697->{'adverID': 1125, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 6500}
+15591->{'adverID': 1120, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 130000}
+15590->{'adverID': 1120, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 195000}
+15593->{'adverID': 1120, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 65000}
+15592->{'adverID': 1120, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 65000}
+15595->{'adverID': 1120, 'hourlist': [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 32500}
+15594->{'adverID': 1120, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 65000}
+15597->{'adverID': 1120, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 32500}
+15596->{'adverID': 1120, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 78000}
+15599->{'adverID': 1120, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 32500}
+15598->{'adverID': 1120, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 65000}
+13856->{'adverID': 937, 'hourlist': [0, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 32500}
+15340->{'adverID': 1080, 'hourlist': [0, 1, 2, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 26000}
+15344->{'adverID': 1036, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 32500}
+15431->{'adverID': 1054, 'hourlist': [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 70000}
+12428->{'adverID': 667, 'hourlist': [0, 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+12429->{'adverID': 748, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 0}
+15029->{'adverID': 213, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 1200000}
+13304->{'adverID': 800, 'hourlist': [8, 9, 10, 11, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 8000}
+13303->{'adverID': 684, 'hourlist': [0, 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 22500}
+13301->{'adverID': 790, 'hourlist': [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+14127->{'adverID': 958, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 12000}
+14125->{'adverID': 958, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 21000}
+14121->{'adverID': 958, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 12000}
+12457->{'adverID': 210, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 27500}
+12458->{'adverID': 210, 'hourlist': [0, 1, 2, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 27500}
+11354->{'adverID': 508, 'hourlist': [0, 1, 2, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+12323->{'adverID': 667, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 7500}
+14221->{'adverID': 958, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 12000}
+14952->{'adverID': 1043, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 10000}
+14953->{'adverID': 1043, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 10000}
+12633->{'adverID': 790, 'hourlist': [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21], 'hourshare': False, 'bidtype': 1, 'budget': 7500}
+12635->{'adverID': 790, 'hourlist': [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21], 'hourshare': False, 'bidtype': 1, 'budget': 7500}
+12634->{'adverID': 790, 'hourlist': [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21], 'hourshare': True, 'bidtype': 2, 'budget': 11250}
+12637->{'adverID': 790, 'hourlist': [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21], 'hourshare': False, 'bidtype': 1, 'budget': 7500}
+12636->{'adverID': 790, 'hourlist': [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21], 'hourshare': False, 'bidtype': 2, 'budget': 7500}
+12735->{'adverID': 790, 'hourlist': [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+10996->{'adverID': 526, 'hourlist': [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 750}
+11500->{'adverID': 624, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+11501->{'adverID': 624, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+15099->{'adverID': 767, 'hourlist': [0, 8, 9, 10, 11, 12, 13, 16, 17, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 140000}
+15658->{'adverID': 1035, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 9900}
+12979->{'adverID': 841, 'hourlist': [0, 1, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 37500}
+15656->{'adverID': 1035, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 9900}
+15654->{'adverID': 1035, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 9900}
+12184->{'adverID': 680, 'hourlist': [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22], 'hourshare': False, 'bidtype': 2, 'budget': 7500}
+15652->{'adverID': 1051, 'hourlist': [8, 9, 10, 11, 13, 14, 15, 16, 17], 'hourshare': True, 'bidtype': 1, 'budget': 4550}
+15650->{'adverID': 1125, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 13000}
+15651->{'adverID': 1125, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 1, 'budget': 13000}
+15382->{'adverID': 616, 'hourlist': [0, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 3750}
+12427->{'adverID': 667, 'hourlist': [0, 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+15478->{'adverID': 159, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17], 'hourshare': False, 'bidtype': 1, 'budget': 11250}
+15479->{'adverID': 159, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17], 'hourshare': False, 'bidtype': 1, 'budget': 15000}
+15473->{'adverID': 159, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17], 'hourshare': True, 'bidtype': 1, 'budget': 37500}
+15476->{'adverID': 159, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17], 'hourshare': True, 'bidtype': 1, 'budget': 37500}
+15477->{'adverID': 159, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17], 'hourshare': False, 'bidtype': 1, 'budget': 22500}
+15474->{'adverID': 159, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17], 'hourshare': False, 'bidtype': 1, 'budget': 30000}
+15475->{'adverID': 159, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17], 'hourshare': True, 'bidtype': 1, 'budget': 30000}
+11172->{'adverID': 484, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 3750}
+11171->{'adverID': 484, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 6000}
+11170->{'adverID': 484, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': False, 'bidtype': 2, 'budget': 6000}
+11174->{'adverID': 484, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+11178->{'adverID': 484, 'hourlist': [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+10079->{'adverID': 337, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16], 'hourshare': False, 'bidtype': 2, 'budget': 3750}
+14004->{'adverID': 865, 'hourlist': [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 3750}
+14006->{'adverID': 937, 'hourlist': [0, 1, 2, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 19500}
+13828->{'adverID': 865, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+13822->{'adverID': 937, 'hourlist': [0, 1, 2, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 9750}
+13827->{'adverID': 865, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+13826->{'adverID': 865, 'hourlist': [9, 10, 11, 12, 13, 14, 15, 16, 17, 18], 'hourshare': True, 'bidtype': 2, 'budget': 7500}
+15379->{'adverID': 616, 'hourlist': [0, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 3750}
+15377->{'adverID': 1043, 'hourlist': [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 10000}
+15376->{'adverID': 606, 'hourlist': [0, 1, 10, 11, 12, 13, 14, 17, 18, 21, 22, 23], 'hourshare': True, 'bidtype': 1, 'budget': 15000}
+12165->{'adverID': 626, 'hourlist': [0, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 21, 22, 23], 'hourshare': True, 'bidtype': 2, 'budget': 20000}
+Total:384

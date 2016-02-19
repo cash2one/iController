@@ -9,8 +9,11 @@ from time import localtime,strftime
 
 
 class RedisDb(object):
-    def __init__(self, host, port):
-        self.r = redis.StrictRedis(host = host, port = port, db=0)
+    def __init__(self, host, port, password = None):
+        if password:
+            self.r = redis.StrictRedis(host = host, port = port, db=0 , password=password)
+        else:
+            self.r = redis.StrictRedis(host = host, port = port, db=0)
 
     def _get(self, key):
         return self.r.get(key)

@@ -18,13 +18,6 @@ TYPE_CPC = 2
 TYPE_HOUR_SHARE = 1
 TYPE_HOUR_SHARE_NO = 0
 
-CRT_KEY_TYPE = "m_type"                                            
-CRT_KEY_URL = 'material_url'                                       
-CRT_KEY_WIDTH = 'width'                                            
-CRT_KEY_HEIGHT = 'height'                                          
-CRT_KEY_CLICK_URL = 'click_url'                                    
-CRT_KEY_MONITOR_URL = 'monitor_url'
-CRT_KEY_MATERIALS = 'materials'
 
 #STATUS_OK_LIST = [STATUS_OK, STATUS_DAY_BUDGET, STATUS_NO_THIS_HOUR, ]
 WEEK_MAP = [1,2,3,4,5,6,0]
@@ -118,39 +111,33 @@ class CoreOrder(threading.Thread):
                     if c.has_key('material'):
                         mat_list = c['material']
                         for m in mat_list:
-                            crt = defaultdict()
-                            crt[CRT_KEY_MATERIALS] = list()
                             mat = defaultdict()
                             if m.has_key('cid'):
-                                crt['cid'] = str(m['cid'])
-
-                            if m.has_key('monitor_url'):
-                                monitor_url_list = m['monitor_url']
-                                if len(monitor_url_list) > 0:
-                                    monitor_url = monitor_url_list[0]
-                                    crt[CRT_KEY_MONITOR_URL] = monitor_url
-
+                                mat['cid'] = str(m['cid'])
+                            if m.has_key('width'):
+                                mat['width'] = str(m['width'])
+                            if m.has_key('height'):
+                                mat['height'] = str(m['height'])
                             if m.has_key('format'):
                                 format = m['format']
                                 if MATERIAL_MAP.has_key(format):
                                     format = MATERIAL_MAP[format]
                                 else:
                                     format = 'img'
-                                crt[CRT_KEY_TYPE] = format
-
-                            if m.has_key('width'):
-                                mat[CRT_KEY_WIDTH] = str(m['width'])
-                            if m.has_key('height'):
-                                mat[CRT_KEY_HEIGHT] = str(m['height'])
+                                mat['type'] = format
                             if m.has_key('destination_url'):
-                                mat[CRT_KEY_CLICK_URL] = m['destination_url']
+                                mat['c_url'] = m['destination_url']
                             if m.has_key('material_url'):
-                                mat[CRT_KEY_URL] = m['material_url']
-                            
-                            crt[CRT_KEY_MATERIALS].append(mat)
-                            if crt['cid']:
-                                detail = json.dumps(crt)
-                                self.db.setCreateInfo(crt['cid'], detail )
+                                mat['m_url'] = m['material_url']
+                            if m.has_key('monitor_url'):
+                                monitor_url_list = m['monitor_url']
+                                if len(monitor_url_list) > 0:
+                                    monitor_url = monitor_url_list[0]
+                                    mat['monitor_url'] = monitor_url
+
+                            if mat['cid'] and mat['width'] and mat['height']:
+                                detail = json.dumps(mat)
+                                self.db.setCreateInfo(mat['cid'], detail )
                                 log.debug(detail)
 
 
@@ -259,7 +246,7 @@ class CoreOrder(threading.Thread):
                 advertiser = self.getOrderAdvertiser(info)
                 bidtype    = self.getOrderBidType(info)
                 hourshare  = self.getOrderHourShare(info)
-                #self.setOrderCreateDetail(info)
+                self.setOrderCreateDetail(info)
                 '''
                     OrderObject: { "execID":{"adverID":xxx, "bidtype":1/2,"hourshare":True/False, "hourlist":[x,x,x,x], }  }
                 '''

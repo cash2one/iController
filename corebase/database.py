@@ -10,20 +10,20 @@ from time import localtime,strftime
 
 
 class Database(object):
-    def __init__(self, redis_conf):
+    def __init__(self, redis_conf, password = None):
         self.counter = 0
         self.red = None
         self.red_list = list()
         self.m_redis_conf = redis_conf
         self.hour = lambda : str(datetime.now().hour).zfill(2)
         self.today = lambda : strftime("%Y-%m-%d", localtime())
-        self.initDatabase()
+        self.initDatabase(password)
 
-    def initDatabase(self):
+    def initDatabase(self, password):
         if isinstance(self.m_redis_conf, tuple):
             for r in self.m_redis_conf:
                 try:
-                    self.red_list.append( RedisDb(r[0],r[1]) )
+                    self.red_list.append( RedisDb(r[0],r[1],password=password ))
                 except Exception, e:
                     print e
 
@@ -109,12 +109,24 @@ class Database(object):
             print "getAdvertiserMoney:%s" % e
             return 0
 
+    def getAdvertiserTodaySpend(self, advid):
+        try:
+            self.switch()
+            money = self.red._get("adv:%s:%s" % (self.today(),advid))
+            if money:
+                return int(float(money)/1000)
+            else:
+                return 0
+        except Exception, e:
+            print "getAdvertiserMoney:%s" % e
+            return 0
+
     def getOrderTodayMoney(self, orid):
         # total money ,this hour money
         try:
             self.switch()
             hour = self.hour()
-            real_money = self.red._hgetall("exec:hourspend:%s" % orid)
+            real_money = self.red._hgetall("eid:hourspend:%s:%s" % (self.today(),orid))
             if real_money:
                 havespend = hourspend = 0
                 for tb in real_money.iteritems():
@@ -129,7 +141,63 @@ class Database(object):
         except Exception, e:
             print "getOrderTodayMoney:%s" % e
             return None, None
-        
+
+    def getOrderTodayClick(self, orid):
+        # total click number
+        try:
+            self.switch()
+            hour = self.hour()
+            imp = self.red._hgetall("eid:click:%s:%s" % (self.today(), orid))
+            if imp:
+                haveclick = 0
+                for tb in imp.iteritems():
+                    if tb[0] <= hour:
+                        haveclick = haveclick + int(tb[1])
+
+                return haveclick
+            else:
+                return 0
+        except Exception, e:
+            print "getOrderTodayClick:%s" % e
+            return 0
+
+    def getOrderTodayShow(self, orid):
+        # total show number
+        try:
+            self.switch()
+            hour = self.hour()
+            imp = self.red._hgetall("eid:show:%s:%s" % (self.today(),orid))
+            if imp:
+                haveshow = 0
+                for tb in imp.iteritems():
+                    if tb[0] <= hour:
+                        haveshow = haveshow + int(tb[1])
+
+                return haveshow
+            else:
+                return 0
+        except Exception, e:
+            print "getOrderTodayShow:%s" % e
+            return 0
+
+    def getOrderTodayResponse(self, orid):
+        # total response number
+        try:
+            self.switch()
+            hour = self.hour()
+            imp = self.red._hgetall("exec:response:%s:%s" % (self.today(), orid))
+            if imp:
+                response = 0
+                for tb in imp.iteritems():
+                    if tb[0] <= hour:
+                        response = response + int(tb[1])
+
+                return response
+            else:
+                return 0
+        except Exception, e:
+            print "getOrderTodayResponse:%s" % e
+            return 0
 
     def setOrderStatus(self, eid, status):
         #'''
@@ -137,7 +205,7 @@ class Database(object):
             self.switch()
             return self.red._hset("exec:status", eid, status)
         except Exception, e:
-            print e
+            print "setOrderStatus:%r" % e
         #'''
 
     def getOrderConfigStamp(self):
@@ -145,5 +213,5 @@ class Database(object):
             self.switch()
             return self.red._get("exec:timestamp")
         except Exception, e:
-            print e
+            print "getOrderConfigStamp:%r" % e
             return 0
