@@ -246,7 +246,7 @@ class CoreOrder(threading.Thread):
                 advertiser = self.getOrderAdvertiser(info)
                 bidtype    = self.getOrderBidType(info)
                 hourshare  = self.getOrderHourShare(info)
-                self.setOrderCreateDetail(info)
+                #self.setOrderCreateDetail(info)
                 '''
                     OrderObject: { "execID":{"adverID":xxx, "bidtype":1/2,"hourshare":True/False, "hourlist":[x,x,x,x], }  }
                 '''
