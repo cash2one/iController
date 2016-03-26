@@ -14,7 +14,7 @@ MCAST_PORT = 14333
 ''' frequency '''
 FREQ_REDIS = (('192.168.167.92', 10501) , ('192.168.167.93', 10501))
 ''' order config '''
-CONFIG_REDIS = (('192.168.1.1', 6379), )
+CONFIG_REDIS = (('08dce178449f48fb.m.cnbja.kvstore.aliyuncs.com', 6379), )
 ''' order realtime info '''
 STATUS_REDIS = (('08dce178449f48fb.m.cnbja.kvstore.aliyuncs.com', 6379), )
 STATUS_REDIS_PASS = "08dce178449f48fb:MtqweBNM789"
